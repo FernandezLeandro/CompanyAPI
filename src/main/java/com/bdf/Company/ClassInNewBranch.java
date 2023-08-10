@@ -1,6 +1,6 @@
 package com.bdf.Company;
 
 public class ClassInNewBranch {
-    private String name;
+    private String surname;
     private int test;
 }
